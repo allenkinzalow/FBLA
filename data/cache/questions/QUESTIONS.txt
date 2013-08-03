@@ -1,0 +1,31 @@
+// question	answer #	answer-options
+// Nationa Officer Category
+Who is the PBL National President for 2012-2013?	2	Bryan Poulsen	Donnie Lorio	Amber Kutnik	Jessica Burger	Brett Harris
+Who is the PBL National Secretary for 2012-2013?	4	Amrutha Sridhar	Stephanie Boardman	Bryan Poulsen	Shuyun Xue	Peter Raun
+Who is the FBLA National President for 2012-2013?	3	Collin Potter	Brent Comstock	Nikitas Kanellakopoulos	CJ Severson	Bailey Morrison
+Who is the FBLA National Secretary for 2012-2013?	5	Shuyun Xue	Brendan Hopkins	Jessica Burger	Peter Raun	Rachel Ford
+What college does the PBL National President attend?	1	Uni. of South Carolina	Uni. of Florida	Arkansas State Uni.	Wayne State College	Dixie State College
+//National Partners Category
+Who should you contact if you are interested in becoming a sponsor?	3	Jan Osborn	Troy White	Jean Buckley	Taylor Kelly	Allen Howard
+Which well-known wireless service provider is a sponsor for FBLA-PBL?	2	AT&T	Verizon	Sprint	T-Mobile	Virgin Mobile
+Which well-known car insurance agency is a sponsor for FBLA-PBL?	1	Geico	Progressive	Nationwide	Esurance	Statefarm
+Which cookie company is a sponsor for FLBA-PBL?	4	Great American Cookies	Tastee Cookie Company	Casey's Cookies	Otis Spunkmeyer	Subway's Cookies
+How many sponsors does FBLA-PBL have?	5	74	49	11	137	91
+//National Office guidelines
+How many year(s) must a national officer candidate have in their business program?	3	2	0	1	4	7
+What date must dues be paid by for FBLA?	2	April 15	March 1	January 15	December 20	February 9
+What date must candidates for national parliamentarian submit their application by?	4	October 15	June 15	January 15	May 15	August 15
+Where will the election results of candidates be announced?	2	National LeaderShip Conference	Awards of Excellence Ceremony	National Awards Ceremony	National Officer Training	National Board of Directors Meeting
+Who should you email if you have questions regarding national officer applications?	1	Lisa Smothers	Chris Pendleton	Ted Harshbarger	Jake Barreau	Ryan Hamilton
+// national leadership conference 
+What hotel will the NLC be held at?	3	Westin	Marriott	Hilton Anaheim	La Quinta	Quality Inn
+What is the date for FBLA NLC?	2	April 23 - 28	June 27 - 30	May 17 - 20	July 22 - 25	September 8 - 10
+What is the date for PBL NLC?	5	February 5 - 7	November 21 - 23	March 4 - 8	May 27 - 30	June 22 - 25
+What is the price for FBLA NLC registration online before May 20?	3	$105	$115	$95	$125	$120
+What is the number to call for NLC registration questions?	4	800-FBLA-HELP	800-PBL-HELP	800-FBL-HELP	800-FBLA-WIN	800-PBL-WINN
+// competitive event guidelines
+How many entrees may each state submit for objective test?	2	2	3	1	4	6
+How many chapter events may a participate compete in?	3	5	2	1	4	3
+How many conference attendees may attend performance events?	2	1	0	2	4	7
+What date must national dues be paid in order to enter a competitive event?	4	May 1	February 2	April 25	March 1	June 1
+What material may be taken into or used during a competitive event?	1	No materials	Reference Manuals	Textbooks	Resource Materials	Electronic Devices
